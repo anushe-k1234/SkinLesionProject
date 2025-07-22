@@ -52,7 +52,7 @@ Images are resized to 224x224 pixels for input to the model.
 - Final layer modified for 7 classes  
 - Loss: CrossEntropyLoss with class weights  
 - Optimizer: Adam  
-- Learning rate scheduler: StepLR reducing LR every 3 epochs  
+- Learning rate scheduler: StepLR reducing LR every 5 epochs  
 - Batch size: 16  
 - Epochs: 10  
 
