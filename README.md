@@ -1,8 +1,6 @@
 # SkinLesionProject
 Project to identify types of skin lesions
 
-# Skin Lesion Classification Project (ISIC 2018 Task 3)
-
 ## Project Summary
 
 • Developed a Python-based AI model using PyTorch to classify skin lesion images into seven diagnostic categories with a ResNet18 architecture.
