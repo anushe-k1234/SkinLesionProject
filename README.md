@@ -62,7 +62,6 @@ Files generated include:
 - Metrics summary CSV (accuracy, precision, recall, F1)  
 - Class distribution CSV  
 - ROC curve data CSV for all classes  
-- Qualitative summary CSV with findings  
 - Grad-CAM metadata CSV linking images to heatmaps  
 
 ## Key Findings
